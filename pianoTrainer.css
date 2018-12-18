@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box
+}
+
+#p {
+    width: 630px;
+    position: relative
+}
+
+#p div {
+    width: 30px;
+    height: 180px;
+    float: left;
+    border: 1px solid;
+    cursor: pointer
+}
+
+#p div.key .key {
+    width: 20px;
+    background: #000;
+    position: relative;
+    height: 120px;
+    left: 17.5px;
+}
+
+#p .key .key.nok, #p .key.nok  {
+    background: red;
+}
+#p .key .key.ok, #p .key.ok  {
+    background: green;
+}
