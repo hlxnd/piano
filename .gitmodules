@@ -1,0 +1,3 @@
+[submodule "PitchDetect"]
+	path = PitchDetect
+	url = https://github.com/cwilso/PitchDetect.git
