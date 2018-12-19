@@ -1,3 +1,3 @@
-[submodule "PitchDetect"]
-	path = PitchDetect
-	url = https://github.com/cwilso/PitchDetect.git
+[submodule "libs/PitchDetect"]
+	path = libs/PitchDetect
+	url = https://github.com/hlxnd/PitchDetect.git

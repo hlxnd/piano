@@ -1,9 +1,20 @@
-* {
+/* * {
     box-sizing: border-box
+} */
+#notes {
+    width: 500px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+#notation {
+    position: relative;
+    height: 100%;
 }
 
 #p {
-    width: 630px;
+    width: 100%;
+    height: 50%;
     position: relative
 }
 
